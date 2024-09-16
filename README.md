@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erogluefee
-- 👀 I’m interested in learning and reading!!!
+- 👀 I’m interested in learning and reading about new things!!!
 - 🌱 I’m currently learning java :o
 - 😄 Pronouns: he/him
 - 1st year cs student at bilkent university c:
